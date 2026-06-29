@@ -1,0 +1,2 @@
+model,f1_macro,accuracy,train_time_sec,scaler_time_sec,inference_time_total_sec,inference_time_per_sample_ms,parameters_count,memory_mb
+KNN (Baseline),0.9184718403231603,0.9244604316546763,0.008467912673950195,0.03058624267578125,0.022344350814819336,0.08037536264323503,0,0.4395751953125

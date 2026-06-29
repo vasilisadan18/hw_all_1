@@ -1,0 +1,2 @@
+model,f1_macro,accuracy,train_time_sec,phase1_train_time_sec,phase2_train_time_sec,inference_time_total_sec,inference_time_per_sample_ms,parameters_count,memory_mb
+Late Fusion (HARNet + KNN),0.9824882024882025,0.9820143884892086,1482.7129561901093,140.16408729553223,1342.548868894577,1.517702341079712,11.41129579759182,10985799,41.90749740600586
